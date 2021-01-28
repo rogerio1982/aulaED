@@ -1,5 +1,5 @@
 # Estrutura de dados 
 
-git clone https://github.com/rogerio1982/site.git
-cd aulaED01
-py <nomedoarquivo>
+1. git clone https://github.com/rogerio1982/aulaED01.git
+2. cd aulaED01
+3. py <nomedoarquivo>
